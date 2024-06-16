@@ -26,9 +26,12 @@ O **Gerador de Senhas Mobile** é uma aplicação que permite:
 
 ### Tela de Geração de Senhas
 ![Tela de Geração de Senhas](https://portfolio.descubraserragaucha.com/assets/PassGen.png)
+---
 
 ### Senha Gerada
 ![Senha Gerada](https://portfolio.descubraserragaucha.com/assets/PassGen0.png)
+---
 
 ### Histórico de Senhas
 ![Histórico de Senhas](https://portfolio.descubraserragaucha.com/assets/PassGen1.png)
+---
