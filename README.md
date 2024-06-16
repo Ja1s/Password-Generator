@@ -1,50 +1,34 @@
-# Welcome to your Expo app 👋
+# Gerador de Senhas Mobile 🔒
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bem-vindo ao repositório do **Gerador de Senhas Mobile**! Este aplicativo foi desenvolvido para ajudar os usuários a gerar senhas seguras e aleatórias diretamente de seus dispositivos móveis.
 
-## Get started
+## 📜 Sobre o Projeto
 
-1. Install dependencies
+O **Gerador de Senhas Mobile** é uma aplicação que permite:
 
-   ```bash
-   npm install
-   ```
+- Gerar senhas seguras com base em critérios personalizados.
+- Copiar senhas geradas para a área de transferência.
+- Armazenar e gerenciar senhas geradas.
 
-2. Start the app
+## 🚀 Funcionalidades
 
-   ```bash
-    npx expo start
-   ```
+- **Geração de Senhas Personalizáveis**: Escolha o comprimento e os tipos de caracteres (letras maiúsculas, minúsculas, números, caracteres especiais).
+- **Copiar para Área de Transferência**: Copie a senha gerada com um único toque.
+- **Histórico de Senhas**: Salve as senhas geradas e acesse-as facilmente.
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tecnologias Utilizadas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+[![REACTNATIVE](https://img.shields.io/badge/React_Native-3c4048?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📷 Capturas de Tela
 
-## Get a fresh project
+### Tela de Geração de Senhas
+![Tela de Geração de Senhas](https://portfolio.descubraserragaucha.com/assets/PassGen.png)
 
-When you're ready, run:
+### Senha Gerada
+![Senha Gerada](https://portfolio.descubraserragaucha.com/assets/PassGen0.png)
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### Histórico de Senhas
+![Histórico de Senhas](https://portfolio.descubraserragaucha.com/assets/PassGen1.png)
